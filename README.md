@@ -1,2 +1,2 @@
 # unity_games
-Example games.
+Space Shooter Game
